@@ -163,7 +163,7 @@ button:active {
 @media (max-width: 600px) {
 
     .timer-container {
-        width: 90%;
+        width: 70%;
         padding: 20px;
     }
 
