@@ -24,7 +24,8 @@ Um temporizador de contagem regressiva totalmente personalizável e funcional, c
 
 ### 🚀 **Como Usar**
 
-1.  Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
-2.  Certifique-se de que os arquivos de imagem e áudio estejam na pasta `assets`.
-3.  Abra o arquivo `index.html` em qualquer navegador moderno.
-4.  Defina o tempo desejado e clique no botão de play!
+Este projeto já está online! Para usá-lo, basta acessar o link abaixo:
+
+**[Clique aqui para acessar o Timer da Hello Kitty ao vivo!](https://timer-hello-kitty-62mz.vercel.app)**
+
+Não é necessário instalar nada. Apenas abra, defina o tempo e divirta-se! 🎀
