@@ -157,3 +157,50 @@ button:active {
 .mascot.awake {
     animation: bounce 0.8s infinite ease-in-out;
 }
+
+/* === RESPONSIVIDADE === */
+
+@media (max-width: 600px) {
+
+    .timer-container {
+        width: 90%;
+        padding: 20px;
+    }
+
+    #hello-kitty-image.mascot {
+        width: 100px;
+        margin-bottom: 10px;
+    }
+
+    h1 {
+        font-size: 2rem;
+        margin-bottom: 5px;
+    }
+
+    #timer-display {
+        font-size: 3.5rem;
+        text-shadow: 2px 2px 0 var(--rosa-hello-kitty);
+        margin-bottom: 15px;
+    }
+
+    .input-group {
+        gap: 10px;
+        margin-bottom: 25px;
+    }
+
+    .input-group input {
+        width: 60px;
+        font-size: 1.2rem;
+    }
+
+    .button-container {
+        gap: 15px;
+    }
+
+    button {
+        width: 60px;
+        height: 60px;
+        font-size: 1.5rem;
+        border-width: 2px;
+    }
+}
