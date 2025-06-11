@@ -1,6 +1,6 @@
 ⏰🎀 **Timer Fofinho da Hello Kitty** 🎀⏰
 
-Um temporizador de contagem regressiva totalmente personalizável e funcional, com um tema adorável da Hello Kitty. Criado com HTML, CSS e JavaScript puros, este projeto é perfeito para quem está aprendendo desenvolvimento web e quer ver como integrar design, interatividade e manipulação de áudio.
+Um temporizador de contagem regressiva totalmente personalizável e funcional, com um tema da Hello Kitty. Criado com HTML, CSS e JavaScript, este projeto foi feito para aprender desenvolvimento web e integrar design, interatividade e manipulação de áudio.
 
 ---
 
